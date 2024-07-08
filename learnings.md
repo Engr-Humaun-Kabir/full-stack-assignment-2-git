@@ -11,3 +11,7 @@
 
 5. Community and Open Source: GitHub is a hub for open source collaboration, allowing developers from around the world to contribute to projects. By participating in open source communities, you can learn from others, share your knowledge, and make meaningful contributions to projects you care about.
 
+# 2 more things I have learnt
+
+6.	Forks and Pull Requests: Forking a repository on GitHub creates a copy of the original repository in your GitHub account. You can make changes to your forked repository and then create a pull request to propose your changes to the original repository. Pull requests provide a way for contributors to collaborate on code changes, discuss them, and merge them into the original repository.
+7.	Git Workflow Strategies: Git supports various workflow strategies for collaborating on projects. Some common workflows include the centralized workflow, feature branch workflow, and Gitflow workflow. Each workflow has its own advantages and is suited to different types of projects and teams. Understanding different Git workflows can help you choose the most appropriate one for your project and team.
